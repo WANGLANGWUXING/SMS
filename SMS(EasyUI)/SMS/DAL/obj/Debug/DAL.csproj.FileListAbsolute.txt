@@ -1,0 +1,7 @@
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(EasyUI)\SMS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(EasyUI)\SMS\DAL\bin\Debug\DAL.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(EasyUI)\SMS\DAL\bin\Debug\DAL.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(EasyUI)\SMS\DAL\bin\Debug\Model.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(EasyUI)\SMS\DAL\bin\Debug\Model.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(EasyUI)\SMS\DAL\obj\Debug\DAL.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(EasyUI)\SMS\DAL\obj\Debug\DAL.pdb

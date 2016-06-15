@@ -1,0 +1,9 @@
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\Model\bin\Debug\Model.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\Model\bin\Debug\Model.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\Model\obj\Debug\Model.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\Model\obj\Debug\Model.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\Model\bin\Debug\Model.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\Model\bin\Debug\Model.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\Model\obj\Debug\Model.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\Model\obj\Debug\Model.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

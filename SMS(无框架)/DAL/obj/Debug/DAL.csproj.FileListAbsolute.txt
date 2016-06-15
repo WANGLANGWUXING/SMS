@@ -1,0 +1,14 @@
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\DAL\bin\Debug\DAL.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\DAL\bin\Debug\DAL.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\DAL\bin\Debug\Model.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\DAL\bin\Debug\Model.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\DAL\obj\Debug\DAL.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS\DAL\obj\Debug\DAL.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\DAL\bin\Debug\DAL.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\DAL\bin\Debug\DAL.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\DAL\bin\Debug\Model.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\DAL\bin\Debug\Model.pdb
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\DAL\obj\Debug\DAL.dll
+E:\G3\ASP.NET企业级项目\每天惠项目\SMS(无框架)\DAL\obj\Debug\DAL.pdb
